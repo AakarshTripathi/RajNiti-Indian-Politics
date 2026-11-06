@@ -58,4 +58,5 @@ GitHub: @AakarshTripathi
 
 ⭐ Support
 If you like this project, please give it a star on GitHub! It helps others discover the project.
+
 <FollowUp label="Would you like help adding a screenshot or preview image of your app into this README?" query="How can I add a screenshot or GIF preview of my app into my GitHub README?"/>
